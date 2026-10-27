@@ -11,7 +11,7 @@ The goal of this series is to build an AUV mathematical model step by step, star
 The emphasis is on understanding the engineering concepts behind the equations and implementing them directly in MATLAB.
 
 ## YouTube Series
-
+https://www.youtube.com/playlist?list=PLSx3SlN-PP3Q
 **AUV Modeling & Simulation in MATLAB**
 
 The series follows this general progression:
